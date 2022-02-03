@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SirM4tt3o
 - 🏠 I'm based in France
 - 👀 I’m interested in BIM softwares & innovative building technologies
-- 🌱 I’m currently learning Grasshopper within Rhinoceros3D
+- 🌱 I’m currently learning Grasshopper within Revit and Rhinoceros3D
 - 💞️ I’m looking to collaborate with everybody to share tips and knowledge
 - 📫 How to reach me : matteo.bellevergue@gmail.com / Facebook / LinkedIn
